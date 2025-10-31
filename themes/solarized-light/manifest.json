@@ -1,0 +1,17 @@
+{
+  "name": "Solarized Light",
+  "version": "1.0",
+  "manifest_version": 3,
+  "theme": {
+    "colors": {
+      "frame": [253, 246, 227],
+      "frame_inactive": [253, 246, 227],
+      "toolbar": [238, 232, 213],
+      "tab_text": [88, 110, 117],
+      "ntp_background": [253, 246, 227],
+      "ntp_text": [88, 110, 117],
+      "omnibox_background": [238, 232, 213],
+      "omnibox_text": [88, 110, 117]
+    }
+  }
+}

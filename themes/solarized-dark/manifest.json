@@ -1,0 +1,17 @@
+{
+  "name": "Solarized Dark",
+  "version": "1.0",
+  "manifest_version": 3,
+  "theme": {
+    "colors": {
+      "frame": [0, 43, 54],
+      "frame_inactive": [0, 43, 54],
+      "toolbar": [7, 54, 66],
+      "tab_text": [131, 148, 150],
+      "ntp_background": [0, 43, 54],
+      "ntp_text": [131, 148, 150],
+      "omnibox_background": [7, 54, 66],
+      "omnibox_text": [131, 148, 150]
+    }
+  }
+}
